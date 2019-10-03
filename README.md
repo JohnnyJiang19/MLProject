@@ -1,5 +1,7 @@
 This project aims to build a machine learning algorithm for predicting whether customers visiting Google's Merchandise Store will make a purchase in the next 7 days.
+
 Contributed by: Lim Si Ling Evelyn, Lee Meng Yong, Jiang Nan, Desmond Ho
+
 Pls contact nan.jiang.2018@mitb.smu.edu.sg for any questions.
 
 Data:
