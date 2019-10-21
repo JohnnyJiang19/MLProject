@@ -37,3 +37,19 @@ Other models
 **Report:**<br>
 Our full report can be found in: 'Project Report.docx'
 
+Requirements: 
+Python 3.7 
+Jupyter Notebook
+
+Python Libraries Required:
+datetime
+numpy
+pandas
+scikit-learn
+matplotlib.pyplot
+seaborn
+dmatrices
+statsmodels
+lightgbm
+
+Python libraries above can be installed via pip. Note that we only tested with the versions above, newer versions might not work.
