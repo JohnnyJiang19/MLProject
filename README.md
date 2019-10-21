@@ -37,11 +37,11 @@ Other models
 **Report:**<br>
 Our full report can be found in: 'Project Report.docx'
 
-Requirements: 
+**Requirements:**<br>
 Python 3.7 <br>
 Jupyter Notebook <br>
 
-Python Libraries Required:
+**Python Libraries Required:**<br>
 datetime<br>
 numpy<br>
 pandas<br>
